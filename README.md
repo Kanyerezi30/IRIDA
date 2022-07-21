@@ -13,4 +13,4 @@ This is a directory to work with IRIDA submission
 
 ## How to run the script
 
-- Rscript ***path of the script*** ***path of the directory containing the fastq files*** ***project id provided by the irida workbench***
+- Rscript |***path of the script***| |***path of the directory containing the fastq files***| |***project id provided by the irida workbench***|
